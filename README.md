@@ -6,7 +6,7 @@
 ``` javascript
 const favouriteStuff = {
   color: "black",
-  language: "polish"
+  language: "polish",
   restaurants: ["Jazvve", "Umea", "Soczysta Strawa"]
 }
 ```
